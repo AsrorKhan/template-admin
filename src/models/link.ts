@@ -1,0 +1,1 @@
+export interface IMenuLinks {    label: string;    link: string;    icon: any;    permissions: string[];}

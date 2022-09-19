@@ -1,0 +1,1 @@
+import React from 'react';import './settings.scss';export const Settings: React.FC<{}> = props => {    return (        <>            <h2>Settings Page</h2>        </>    );};

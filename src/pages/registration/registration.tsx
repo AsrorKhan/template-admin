@@ -1,0 +1,1 @@
+import React from 'react';import './registration.scss';export const Registration: React.FC<{}> = props => {    return (        <>            <h2>Register Page</h2>        </>    );};

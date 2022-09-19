@@ -1,0 +1,1 @@
+import React from 'react';export const Dashboards: React.FC<{}> = props => {    return (        <>            <h2>Dashboard Page</h2>        </>    );};

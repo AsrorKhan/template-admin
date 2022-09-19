@@ -1,0 +1,1 @@
+import React from 'react';import './dateFormatter.scss';export const DateFormatter: React.FC<{}> = props => {    return <></>;};

@@ -1,0 +1,1 @@
+import React from 'react';import './content.scss';import { AppRoutes } from '../../routes/appRoutes';export const ContentComponent: React.FC<{}> = props => {    return (        <div className="content">            <AppRoutes />        </div>    );};

@@ -1,0 +1,21 @@
+.table-status {
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+
+  &.success {
+    background-color: #D2FAEA;
+    color: #00965A;
+  }
+
+  &.failed {
+    background-color: #FAD2D2;
+    color: #960000;
+  }
+
+  &.unknown {
+    background-color: #58586C;
+    color: #ffffff;
+  }
+}

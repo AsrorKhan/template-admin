@@ -1,0 +1,1 @@
+import { $instance } from '../api/api';class FirstService {    getAnalysisList() {        return $instance.get('/api/user-get-all-history');    }}export default new FirstService();
